@@ -1,4 +1,4 @@
 # JS_Test
-## Exercise List
+**Nguyen Khac Quy Hoang**
 
 *JavaScript test*
