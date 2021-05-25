@@ -1,2 +1,4 @@
 # JS_Test
-JavaScript test
+## Exercise List
+
+*JavaScript test*
